@@ -1,4 +1,4 @@
-# Sales Forecasting for Champagne Industry  
+# Sales Forecasting for Champagne Company  
 
 ## Business Question  
 How can we forecast sales effectively to optimize planning and meet market demand?  
